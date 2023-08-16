@@ -11,9 +11,9 @@ export default function Homenew() {
           <img src={Logo} width="260.34px" height="72px"/>
         </Link>
         <div className='hidden text-textcolor font-poppins-light lg:inline-flex '>
-          <a className="px-6  hover:text-primary text-lg " href='#'><Link to="/">Home</Link></a>
-          <a className="px-6  hover:text-primary text-lg " href='#'><Link to="/summary">Features</Link></a>
-          <a className="px-6  hover:text-primary text-lg " href='#'><Link to="/Reportissues">Tools</Link></a>
+        <Link to="/"><a className="px-6  hover:text-primary text-lg " href='#'>Home</a></Link>
+        <Link to="/summary"> <a className="px-6  hover:text-primary text-lg " href='#'>Features</a></Link>
+        <Link to="/Reportissues"> <a className="px-6  hover:text-primary text-lg " href='#'>Tools</a></Link>
           <a className="px-6  hover:text-primary text-lg " href='#'>Resources</a>
           <a className="px-6  hover:text-primary text-lg " href='#'>Blog</a>
         </div>
@@ -28,9 +28,9 @@ export default function Homenew() {
                   <div className='absolute w-[30px]  h-[2px] top-[12px] bg-textcolor block transform origin-center duration-500 ease-in-out hamburger'></div>          
               </div>
               <div  className='z-200 show-menu left-0  font-poppins-regular text-textcolor right-0 top-[100px] h-full text-center fixed opacity-0 transform  transition duration-100 delay-200 ease-in-out'>               
-                  <a href="#" className=" hover:text-primary mb-3 p-3 hover:bg-textcolor  block"><Link to="/">Home</Link></a>            
-                  <a href="#" className=" hover:text-primary mb-3 p-3 hover:bg-textcolor block"><Link to="/summary">Features</Link></a>         
-                  <a href="#" className=" hover:text-primary mb-3 p-3  hover:bg-textcolor block"><Link to="/Reportissues">Tools</Link></a>            
+                  <Link to="/"><a href="#" className=" hover:text-primary mb-3 p-3 hover:bg-textcolor  block">Home</a></Link>          
+                  <Link to="/summary"><a href="#" className=" hover:text-primary mb-3 p-3 hover:bg-textcolor block">Features</a></Link>        
+                  <Link to="/Reportissues"><a href="#" className=" hover:text-primary mb-3 p-3  hover:bg-textcolor block">Tools</a></Link>           
                   <a href="#" className=" hover:text-primary mb-3 p-3  hover:bg-textcolor  block">Resources</a>            
                   <a href="#" className=" hover:text-primary mb-3 p-3  hover:bg-textcolor  block">Blog</a>
                   <button className='bg-primary font-bold rounded-2xl p-2 m-4'>Contact us</button>

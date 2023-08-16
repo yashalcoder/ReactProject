@@ -77,8 +77,8 @@ export default function Reportissues() {
           <div className='bg-textcolor h-36 '>    
             <div className=' mt-11 pt-9 pb-11 h-11 ml-11 mr-11 '>
               <div className='lg:flex border-4 text-xl border-gray'>
-                <button  className='border-r-2 hidden lg:block border-gray  hover:bg-primary hover:text-textcolor  font-poppins-light p-4 '><Link to="/Reportissues" >issues to fix</Link></button>
-                <button  className='border-r-2 hidden lg:block border-gray hover:bg-primary  hover:text-textcolor  font-poppins-light p-4 '>Common SEO issues</button>
+                <Link to="/Reportissues" ><button  className='border-r-2 hidden lg:block border-gray  hover:bg-primary hover:text-textcolor  font-poppins-light p-4 '>issues to fix</button></Link>
+                <Link to="/ReportCommonSEOissues" ><button  className='border-r-2 hidden lg:block border-gray hover:bg-primary  hover:text-textcolor  font-poppins-light p-4 '>Common SEO issues</button></Link>
                 <button  className='border-r-2 hidden lg:block border-gray hover:bg-primary hover:text-textcolor  font-poppins-light p-4  '>Speed Optimization</button>
                 <button  className='border-r-2 hidden lg:block border-gray hover:bg-primary  hover:text-textcolor font-poppins-light p-4 '>Server & Security</button>
                 <button  className='border-r-2 hidden lg:block border-gray hover:bg-primary hover:text-textcolor  font-poppins-light p-4 '>Mobile Useability</button>
