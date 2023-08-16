@@ -1,3 +1,38 @@
+@font-face {
+  font-family: "Poppins-Regular";
+  src: url('fonts/Poppins-Regular.ttf') format('woff2'),
+       url('fonts/Poppins-Regular.ttf') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins-Bold';
+  src: url('fonts/Poppins-Bold.ttf') format('woff2'),
+       url('fonts/Poppins-Bold.ttf') format('woff');
+  font-weight: bold;
+  font-style: bold;
+}
+@font-face {
+  font-family: 'Poppins-Light';
+  src: url('fonts/Poppins-Light.ttf') format('woff2'),
+       url('fonts/Poppins-Light.ttf') format('woff');
+  font-weight: lighter;
+  font-style: lighter;
+}
+@font-face {
+  font-family: 'Poppins-Medium';
+  src: url('fonts/Poppins-Medium.ttf') format('woff2'),
+       url('fonts/Poppins-Medium.ttf') format('woff');
+  font-weight: medium;
+  font-style: medium;
+}
+@font-face {
+  font-family: 'Poppinns-SemiBold';
+  src: url('fonts/Poppins-SemiBold.ttf') format('woff2'), 
+       url('fonts/Poppins-SemiBold.ttf') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

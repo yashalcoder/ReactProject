@@ -13,9 +13,19 @@ module.exports = {
       icongreen: "#00A36E",
       bggreen: "#B3F6CB",
       textcolor: "#FFF",
+      blackish:'#000',
+      darkOrange:'#EE874D',
+      gray:'#EAEFEF',
+      textgray:'#A6A6A6',
+      lightorange: '#FFCCA8'
+    
     },
     fontFamily: {
-      "Poppins-Bold": ["Pold", "Poppins-Bold"],
+      'poppins-bold': ['Poppins-Bold', 'sans'],
+      'poppins-light':['Poppins-Light','sans'],
+      'poppins-regular':['Poppins-Regular','sans'],
+      'poppins-medium':['Poppins-Medium','sans'],
+      'poppins-semibold':['Poppins-SemiBold','sans'],
     },
     extend: {},
   },
