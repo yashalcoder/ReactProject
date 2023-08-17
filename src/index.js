@@ -16,7 +16,7 @@ root.render(
         <Route path="/" element={ <Home /> }/>
         <Route path="/summary" element={<Summary/>}/>
         <Route path="/Reportissues" element={<Reportissues/>}/>
-        <Route path="/CommonSEOissues:slug" element={<ReportCommonSEOissues/>}/>
+        <Route path="/ReportCommonSEOissues" element={<ReportCommonSEOissues/>}/>
       </Routes>
     </Router>
   </React.StrictMode>

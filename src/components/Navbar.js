@@ -10,7 +10,7 @@ export default function Homenew() {
         <Link to="/" className='m-3'>
           <img src={Logo} width="260.34px" height="72px"/>
         </Link>
-        <div className='hidden text-textcolor font-poppins-light lg:inline-flex '>
+        <div className='hidden text-textcolor font-poppins-light lg:inline-flex'>
         <Link to="/"><a className="px-6  hover:text-primary text-lg " href='#'>Home</a></Link>
         <Link to="/summary"> <a className="px-6  hover:text-primary text-lg " href='#'>Features</a></Link>
         <Link to="/Reportissues"> <a className="px-6  hover:text-primary text-lg " href='#'>Tools</a></Link>

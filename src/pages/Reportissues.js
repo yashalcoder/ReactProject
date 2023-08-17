@@ -83,7 +83,7 @@ export default function Reportissues() {
                 <button  className='border-r-2 hidden lg:block border-gray hover:bg-primary  hover:text-textcolor font-poppins-light p-4 '>Server & Security</button>
                 <button  className='border-r-2 hidden lg:block border-gray hover:bg-primary hover:text-textcolor  font-poppins-light p-4 '>Mobile Useability</button>
                 <button  className=' hidden lg:block hover:bg-primary hover:text-textcolor  font-poppins-light p-4'>Advanced SEO</button>
-                <a href="#0" className='block lg:hidden bg-primary text-textcolor w-full text-center py-3 px-4  text-white xl:rounded-l-none rounded-l-lg  rounded-r-lg bg-purple-600'>View All</a>
+                <a href="#0" className='block lg:hidden  bg-primary text-textcolor w-full text-center py-3 px-4  text-white xl:rounded-l-none rounded-l-lg  rounded-r-lg bg-purple-600'>View All</a>
               </div>
             </div>
           </div>
