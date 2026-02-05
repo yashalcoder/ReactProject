@@ -42,7 +42,7 @@ export default function Home() {
             <p className='w-72 font-bold pt-4 font-poppins-bold'>Compete with your competitters with a strong social media voice</p>
           </div>
           <div className='m-auto w-[400px] mt-[50px] mb-[50px]'>
-           <img alt="no image" src={img1} alt=''/>
+           <img alt="not" src={img1} alt=''/>
           </div>
         </div>
       </div> 
@@ -210,7 +210,7 @@ export default function Home() {
       </div>
       <div className="container lg:grid grid-cols-2">
         <div className=" m-auto mt-[50px] mb-[50px]">
-          <img alt="no image" className="m-auto" src={img2} width={400} height={490} alt="" />
+          <img alt="not" className="m-auto" src={img2} width={400} height={490} alt="" />
         </div>
         <div className=" ">
           <div className="m-auto mt-[50px] pl-11 w-[450px] ">
@@ -366,7 +366,7 @@ export default function Home() {
         </h1>
         <div className="container lg:grid grid-cols-2">
           <div className="w-[400px] m-auto mt-11">
-            <img alt="no image" src={mask} width={400} height={384} />
+            <img alt="not" src={mask} width={400} height={384} />
             <h1 className=" text-textcolor font-poppins-bold p-6 text-2xl pl-0">
               Everything you need
             </h1>
@@ -390,7 +390,7 @@ export default function Home() {
             </div>
           </div>
           <div className=" w-[400px] m-auto mt-11">
-            <img alt="no image" src={rectangle28} width={400} height={384} />
+            <img alt="not" src={rectangle28} width={400} height={384} />
             <h1 className=" text-textcolor font-poppins-bold p-6 text-2xl pl-0">
               Custom branded SEO reports
             </h1>
@@ -416,7 +416,7 @@ export default function Home() {
         </div>
         <div className="container lg:grid grid-cols-2">
           <div className="w-[400px] m-auto mt-11 ">
-            <img alt="no image" src={rectangle29} width={400} height={384} />
+            <img alt="not" src={rectangle29} width={400} height={384} />
             <h1 className=" text-textcolor font-poppins-bold  p-6 text-2xl pl-0 ">
               Analyze competiters strategy
             </h1>
@@ -440,7 +440,7 @@ export default function Home() {
             </div>
           </div>
           <div className=" w-[400px] m-auto mt-11 pb-[50px]">
-            <img alt="no image" src={rectangle30} width={400} height={384} />
+            <img alt="not" src={rectangle30} width={400} height={384} />
             <h1 className=" text-textcolor font-poppins-bold p-6 text-2xl pl-0">
               Check website's back links
             </h1>
@@ -476,27 +476,27 @@ export default function Home() {
         </div>
         <div className=" m-auto p-[50px] pt-0 text-lg ">
           <div className="container p-4 grid grid-cols-2  ">
-            <img alt="no image" src={tick} />
+            <img alt="not" src={tick} />
             <h1 className="border-b font-poppins-bold">
               Complete website analyze
             </h1>
           </div>
           <div className="container p-4 grid grid-cols-2 ">
-            <img alt="no image" src={tick} />
+            <img alt="not" src={tick} />
             <h1 className="border-b  font-poppins-bold">Website Monitoring</h1>
           </div>
           <div className="container p-4 grid grid-cols-2 ">
-            <img alt="no image" src={tick} />
+            <img alt="not" src={tick} />
             <h1 className="border-b  font-poppins-bold">Detect Broken Links</h1>
           </div>
           <div className="container p-4 grid grid-cols-2">
-            <img alt="no image" src={tick} />
+            <img alt="not" src={tick} />
             <h1 className="border-b  font-poppins-bold">
               Track Side's Loading Speed
             </h1>
           </div>
           <div className="container p-4 grid grid-cols-2">
-            <img alt="no image" src={tick} />
+            <img alt="not" src={tick} />
             <h1 className="border-b font-poppins-bold">Technical Support</h1>
           </div>
         </div>

@@ -83,7 +83,7 @@ export default function Reportissues() {
                 <div className="m-auto p-3 h-28  w-36 border-r-2 border-gray">
                   <div className="flex">
                     <h1>Passed checks</h1>
-                    <img alt="no image" className="m-auto " src={greentick} alt="" />
+                    <img alt="not" className="m-auto " src={greentick} alt="" />
                   </div>
                   <h1 className="text-4xl font-poppins-regular pt-2 text-icongreen">
                     45
@@ -92,7 +92,7 @@ export default function Reportissues() {
                 <div className="m-auto p-3 h-28  w-36 border-r-2 border-gray">
                   <div className="flex">
                     <h1>Failed Checks</h1>
-                    <img alt="no image" className="m-auto " src={cross} alt="" />
+                    <img alt="not" className="m-auto " src={cross} alt="" />
                   </div>
                   <h1 className="text-4xl font-poppins-regular pt-2 text-redish">
                     19
@@ -101,7 +101,7 @@ export default function Reportissues() {
                 <div className="m-auto p-3 h-28  w-36 ">
                   <div className="flex">
                     <h1>Warnings</h1>
-                    <img alt="no image" className="m-1 " src={not} alt="" />
+                    <img alt="not" className="m-1 " src={not} alt="" />
                   </div>
                   <h1 className="text-4xl font-poppins-regular pt-2 text-primary">
                     3
@@ -153,7 +153,7 @@ export default function Reportissues() {
               <button className="bg-redish font-poppins-bold text-textcolor p-2 rounded-md w-24  m-auto ">
                 High
               </button>
-              <img alt="no image" className="p-2 m-auto" src={group} width={30} alt="" />
+              <img alt="not" className="p-2 m-auto" src={group} width={30} alt="" />
               <p className="mr-6 mt-2 ml-4 ">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum,
                 distinctio! Lorem ipsum dolor sit, amet consectetur adipisicing
@@ -164,7 +164,7 @@ export default function Reportissues() {
               <button className="bg-redish font-poppins-bold text-textcolor p-2 rounded-md w-24  m-auto ">
                 High
               </button>
-              <img alt="no image" className="p-2 m-auto" src={group} width={30} alt="" />
+              <img alt="not" className="p-2 m-auto" src={group} width={30} alt="" />
               <p className="mr-6 mt-2 ml-4">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum,
                 distinctio! Lorem ipsum dolor sit, amet consectetur adipisicing
@@ -175,7 +175,7 @@ export default function Reportissues() {
               <button className="bg-redish font-poppins-bold text-textcolor p-2 rounded-md w-24  m-auto ">
                 High
               </button>
-              <img alt="no image" className="p-2 m-auto" src={group} width={30} alt="" />
+              <img alt="not" className="p-2 m-auto" src={group} width={30} alt="" />
               <p className="mr-6 mt-2 ml-4">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum,
                 distinctio! Lorem ipsum dolor sit, amet consectetur adipisicing
@@ -186,7 +186,7 @@ export default function Reportissues() {
               <button className="bg-redish font-poppins-bold text-textcolor p-2 rounded-md w-24  m-auto ">
                 High
               </button>
-              <img alt="no image" className="p-2 m-auto" src={group} width={30} alt="" />
+              <img alt="not" className="p-2 m-auto" src={group} width={30} alt="" />
               <p className="mr-6 mt-2 ml-4">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum,
                 distinctio! Lorem ipsum dolor sit, amet consectetur adipisicing
@@ -197,7 +197,7 @@ export default function Reportissues() {
               <button className="bg-redish font-poppins-bold text-textcolor p-2 rounded-md w-24  m-auto ">
                 High
               </button>
-              <img alt="no image" className="p-2 m-auto" src={group} width={30} alt="" />
+              <img alt="not" className="p-2 m-auto" src={group} width={30} alt="" />
               <p className="mr-6 mt-2 ml-4">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum,
                 distinctio! Lorem ipsum dolor sit, amet consectetur adipisicing
@@ -208,7 +208,7 @@ export default function Reportissues() {
               <button className="bg-redish font-poppins-bold text-textcolor p-2 rounded-md w-24  m-auto ">
                 High
               </button>
-              <img alt="no image" className="p-2 m-auto" src={group} width={30} alt="" />
+              <img alt="not" className="p-2 m-auto" src={group} width={30} alt="" />
               <p className="mr-6 mt-2 ml-4">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum,
                 distinctio! Lorem ipsum dolor sit, amet consectetur adipisicing
@@ -219,7 +219,7 @@ export default function Reportissues() {
               <button className="bg-lightorange font-poppins-bold  p-2 rounded-md w-24  m-auto ">
                 Medium
               </button>
-              <img alt="no image" className="p-2 m-auto" src={group} width={30} alt="" />
+              <img alt="not" className="p-2 m-auto" src={group} width={30} alt="" />
               <p className="mr-6 mt-2 ml-4">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum,
                 distinctio! Lorem ipsum dolor sit, amet consectetur adipisicing
@@ -230,7 +230,7 @@ export default function Reportissues() {
               <button className="bg-lightorange font-poppins-bold  p-2 rounded-md w-24  m-auto ">
                 Medium
               </button>
-              <img alt="no image" className="p-2 m-auto" src={group} width={30} alt="" />
+              <img alt="not" className="p-2 m-auto" src={group} width={30} alt="" />
               <p className="mr-6 mt-2 ml-4">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum,
                 distinctio! Lorem ipsum dolor sit, amet consectetur adipisicing
@@ -241,7 +241,7 @@ export default function Reportissues() {
               <button className="bg-lightorange font-poppins-bold  p-2 rounded-md w-24  m-auto ">
                 Medium
               </button>
-              <img alt="no image" className="p-2 m-auto" src={group} width={30} alt="" />
+              <img alt="not" className="p-2 m-auto" src={group} width={30} alt="" />
               <p className="mr-6 mt-2 ml-4">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum,
                 distinctio! Lorem ipsum dolor sit, amet consectetur adipisicing
@@ -252,7 +252,7 @@ export default function Reportissues() {
               <button className="bg-lightorange font-poppins-bold p-2 rounded-md w-24  m-auto ">
                 Medium
               </button>
-              <img alt="no image" className="p-2 m-auto" src={group} width={30} alt="" />
+              <img alt="not" className="p-2 m-auto" src={group} width={30} alt="" />
               <p className="mr-6 mt-2 ml-4">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum,
                 distinctio! Lorem ipsum dolor sit, amet consectetur adipisicing
@@ -273,27 +273,27 @@ export default function Reportissues() {
         </div>
         <div className=" m-auto p-[50px] pt-0 text-lg ">
           <div className="container p-4 grid grid-cols-2  ">
-            <img alt="no image" src={tick} />
+            <img alt="not" src={tick} />
             <h1 className="border-b font-poppins-bold">
               Complete website analyze
             </h1>
           </div>
           <div className="container p-4 grid grid-cols-2 ">
-            <img alt="no image" src={tick} />
+            <img alt="not" src={tick} />
             <h1 className="border-b  font-poppins-bold">Website Monitoring</h1>
           </div>
           <div className="container p-4 grid grid-cols-2 ">
-            <img alt="no image" src={tick} />
+            <img alt="not" src={tick} />
             <h1 className="border-b  font-poppins-bold">Detect Broken Links</h1>
           </div>
           <div className="container p-4 grid grid-cols-2">
-            <img alt="no image" src={tick} />
+            <img alt="not" src={tick} />
             <h1 className="border-b  font-poppins-bold">
               Track Side's Loading Speed
             </h1>
           </div>
           <div className="container p-4 grid grid-cols-2">
-            <img alt="no image" src={tick} />
+            <img alt="not" src={tick} />
             <h1 className="border-b font-poppins-bold">Technical Support</h1>
           </div>
         </div>

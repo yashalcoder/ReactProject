@@ -83,7 +83,7 @@ export default function ReportCommonSEOissues() {
                 <div className="m-auto p-3 h-28  w-36 border-r-2 border-gray">
                   <div className="flex">
                     <h1>Passed checks</h1>
-                    <img alt="no image" className="m-auto " src={greentick} alt="" />
+                    <img alt="not" className="m-auto " src={greentick} alt="" />
                   </div>
                   <h1 className="text-4xl font-poppins-regular pt-2 text-icongreen">
                     45
@@ -92,7 +92,7 @@ export default function ReportCommonSEOissues() {
                 <div className="m-auto p-3 h-28  w-36 border-r-2 border-gray">
                   <div className="flex">
                     <h1>Failed Checks</h1>
-                    <img alt="no image" className="m-auto " src={cross} alt="" />
+                    <img alt="not" className="m-auto " src={cross} alt="" />
                   </div>
                   <h1 className="text-4xl font-poppins-regular pt-2 text-redish">
                     19
@@ -101,7 +101,7 @@ export default function ReportCommonSEOissues() {
                 <div className="m-auto p-3 h-28  w-36 ">
                   <div className="flex">
                     <h1>Warnings</h1>
-                    <img alt="no image" className="m-1 " src={not} alt="" />
+                    <img alt="not" className="m-1 " src={not} alt="" />
                   </div>
                   <h1 className="text-4xl font-poppins-regular pt-2 text-primary">
                     3
@@ -192,7 +192,7 @@ export default function ReportCommonSEOissues() {
           <p className="border-b-2 border-gray mt-4 mb-4"></p>
           <div className="lg:grid grid-cols-2">
             <div className=" w-96 m-auto mt-6">
-              <img alt="no image" className="p-1 inline-block" src={greentick} />
+              <img alt="not" className="p-1 inline-block" src={greentick} />
               <p className="inline-block font-poppins-medium ">
                 Meta Tittle Test
               </p>
@@ -217,7 +217,7 @@ export default function ReportCommonSEOissues() {
           <p className="border-b-2 border-gray mt-4 mb-4"></p>
           <div className="lg:grid grid-cols-2">
             <div className=" w-96 m-auto mt-6">
-              <img alt="no image" className="p-1 inline-block" src={not} />
+              <img alt="not" className="p-1 inline-block" src={not} />
               <p className="inline-block font-poppins-medium ">
                 Meta Description Test
               </p>
@@ -244,7 +244,7 @@ export default function ReportCommonSEOissues() {
           <p className="border-b-2 border-gray mt-4 mb-4"></p>
           <div className="lg:grid grid-cols-2">
             <div className=" w-96 m-auto mt-6">
-              <img alt="no image" className="p-1 inline-block" src={dot} />
+              <img alt="not" className="p-1 inline-block" src={dot} />
               <p className="inline-block font-poppins-medium ">
                 Google Search Results Preview Test
               </p>
@@ -290,7 +290,7 @@ export default function ReportCommonSEOissues() {
           <p className="border-b-2 border-gray mt-4 mb-4"></p>
           <div className="lg:grid grid-cols-2">
             <div className=" w-96 m-auto mt-6">
-              <img alt="no image" className="p-1 inline-block" src={greentick} />
+              <img alt="not" className="p-1 inline-block" src={greentick} />
               <p className="inline-block font-poppins-medium ">
                 Social Media Meta Tags Test
               </p>
@@ -338,7 +338,7 @@ export default function ReportCommonSEOissues() {
           <p className="border-b-2 border-gray mt-4 mb-4"></p>
           <div className="lg:grid grid-cols-2">
             <div className=" w-96 m-auto mt-6">
-              <img alt="no image" className="p-1 inline-block" src={dot} />
+              <img alt="not" className="p-1 inline-block" src={dot} />
               <p className="inline-block font-poppins-medium ">
                 Most Common Keywords Test
               </p>
@@ -366,27 +366,27 @@ export default function ReportCommonSEOissues() {
         </div>
         <div className=" m-auto p-[50px] pt-0 text-lg ">
           <div className="container p-4 grid grid-cols-2  ">
-            <img alt="no image" src={tick} />
+            <img alt="not" src={tick} />
             <h1 className="border-b font-poppins-bold">
               Complete website analyze
             </h1>
           </div>
           <div className="container p-4 grid grid-cols-2 ">
-            <img alt="no image" src={tick} />
+            <img alt="not" src={tick} />
             <h1 className="border-b  font-poppins-bold">Website Monitoring</h1>
           </div>
           <div className="container p-4 grid grid-cols-2 ">
-            <img alt="no image" src={tick} />
+            <img alt="not" src={tick} />
             <h1 className="border-b  font-poppins-bold">Detect Broken Links</h1>
           </div>
           <div className="container p-4 grid grid-cols-2">
-            <img alt="no image" src={tick} />
+            <img alt="not" src={tick} />
             <h1 className="border-b  font-poppins-bold">
               Track Side's Loading Speed
             </h1>
           </div>
           <div className="container p-4 grid grid-cols-2">
-            <img alt="no image" src={tick} />
+            <img alt="not" src={tick} />
             <h1 className="border-b font-poppins-bold">Technical Support</h1>
           </div>
         </div>
