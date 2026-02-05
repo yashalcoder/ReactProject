@@ -28,16 +28,16 @@ export default function Footer() {
         </div>
         <div className="container lg:grid grid-cols-2 ">
           <div className="m-auto  w-80 mt-[50px] mb-[50px]">
-            <img src={Logo} alt="" />
+            <img alt="no image" src={Logo} alt="" />
             <p className="ml-[110px]  text-textcolor ">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit.
               Exercitationem, vel!
             </p>
             <div className="container    flex mt-4">
-              <img className="ml-28" src={twitter} alt="" />
-              <img className="ml-4" src={pinterest} alt="" />
-              <img className="ml-9" src={fb} alt="" />
-              <img className="ml-4 " src={insta} alt="" />
+              <img alt="no image" className="ml-28" src={twitter} alt="" />
+              <img alt="no image" className="ml-4" src={pinterest} alt="" />
+              <img alt="no image" className="ml-9" src={fb} alt="" />
+              <img alt="no image" className="ml-4 " src={insta} alt="" />
             </div>
           </div>
           <div className="m-auto  w-[400px] mt-[50px] pb-[50px]">
@@ -67,7 +67,7 @@ export default function Footer() {
             </div>
           </div>
           <div className=" border-primary container font-poppins-light flex text-textcolor pb-[50px]">
-            <img className="ml-32 " width={20} src={footer} alt="" />
+            <img alt="no image" className="ml-32 " width={20} src={footer} alt="" />
             <p className="m-auto ml-2">SEO cracks 2023</p>
             <ul className="list-disc m-auto">
               <li>All rights reserved</li>

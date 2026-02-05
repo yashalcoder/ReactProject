@@ -33,7 +33,7 @@ export default function Summary() {
               Increase Digital Worth & Boost Revenue
             </h1>
             <div className="container flex pb-4 mt-11 border-b">
-              <img src={increase} alt="" />
+              <img alt="no image" src={increase} alt="" />
               <div className="m-4 mb-0 font-poppins-bold ">
                 <p>Recent Research</p>
                 <a href="https://snowdreamstudio.com" className="text-primary">
@@ -99,7 +99,7 @@ export default function Summary() {
             </div>
           </div>
           <div className="m-auto w-[400px] mt-[50px] mb-[50px]">
-            <img src={img1} alt="" />
+            <img alt="no image" src={img1} alt="" />
           </div>
         </div>
       </div>
@@ -267,7 +267,7 @@ export default function Summary() {
       </div>
       <div className="container lg:grid grid-cols-2">
         <div className=" m-auto mt-[50px] mb-[50px]">
-          <img className="m-auto" src={img2} width={400} height={490} alt="" />
+          <img alt="no image" className="m-auto" src={img2} width={400} height={490} alt="" />
         </div>
         <div className=" ">
           <div className="m-auto mt-[50px] pl-11 w-[450px] ">
@@ -426,7 +426,7 @@ export default function Summary() {
         </h1>
         <div className="container lg:grid grid-cols-2">
           <div className="w-[400px] m-auto mt-11">
-            <img src={mask} width={400} height={384} />
+            <img alt="no image" src={mask} width={400} height={384} />
             <h1 className=" text-textcolor font-poppins-bold p-6 pl-0 text-2xl  ">
               Everything you need
             </h1>
@@ -450,7 +450,7 @@ export default function Summary() {
             </div>
           </div>
           <div className=" w-[400px] m-auto mt-11">
-            <img src={rectangle28} width={400} height={384} />
+            <img alt="no image" src={rectangle28} width={400} height={384} />
             <h1 className=" text-textcolor font-poppins-bold p-6 w-full pl-0 text-2xl ">
               Custom branded SEO reports
             </h1>
@@ -476,7 +476,7 @@ export default function Summary() {
         </div>
         <div className="container lg:grid grid-cols-2">
           <div className="w-[400px] m-auto mt-11 ">
-            <img src={rectangle29} width={400} height={384} />
+            <img alt="no image" src={rectangle29} width={400} height={384} />
             <h1 className=" text-textcolor font-poppins-bold w-full p-6 text-2xl pl-0">
               Analyze competiters strategy
             </h1>
@@ -500,7 +500,7 @@ export default function Summary() {
             </div>
           </div>
           <div className=" w-[400px] m-auto mt-11 pb-[50px]">
-            <img src={rectangle30} width={400} height={384} />
+            <img alt="no image" src={rectangle30} width={400} height={384} />
             <h1 className=" text-textcolor w-full font-poppins-bold p-6 text-2xl pl-0 ">
               Check website's back links
             </h1>
@@ -536,27 +536,27 @@ export default function Summary() {
         </div>
         <div className=" m-auto p-[50px] pt-0 text-lg ">
           <div className="container p-4 grid grid-cols-2  ">
-            <img src={tick} />
+            <img alt="no image" src={tick} />
             <h1 className="border-b font-poppins-bold">
               Complete website analyze
             </h1>
           </div>
           <div className="container p-4 grid grid-cols-2 ">
-            <img src={tick} />
+            <img alt="no image" src={tick} />
             <h1 className="border-b  font-poppins-bold">Website Monitoring</h1>
           </div>
           <div className="container p-4 grid grid-cols-2 ">
-            <img src={tick} />
+            <img alt="no image" src={tick} />
             <h1 className="border-b  font-poppins-bold">Detect Broken Links</h1>
           </div>
           <div className="container p-4 grid grid-cols-2">
-            <img src={tick} />
+            <img alt="no image" src={tick} />
             <h1 className="border-b  font-poppins-bold">
               Track Side's Loading Speed
             </h1>
           </div>
           <div className="container p-4 grid grid-cols-2">
-            <img src={tick} />
+            <img alt="no image" src={tick} />
             <h1 className="border-b font-poppins-bold">Technical Support</h1>
           </div>
         </div>

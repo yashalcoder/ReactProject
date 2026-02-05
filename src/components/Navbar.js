@@ -8,7 +8,7 @@ export default function Homenew() {
         <div className="container px-20 mx-auto w-full">
           <div className="grid grid-cols-3 items-center">
             <Link to="/" className="m-3">
-              <img src={Logo} width="260.34px" height="72px" />
+              <img alt="no image" src={Logo} width="260.34px" height="72px" />
             </Link>
             <div className="hidden text-textcolor font-poppins-light lg:inline-flex">
               <Link to="/">
